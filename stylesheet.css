@@ -1,0 +1,10 @@
+#videoBG {
+    
+    z-index: -1;
+    width:100%;     
+    height: auto;
+}
+
+.jumbotron { color: azure;
+    background: rgba(204, 204, 204, 0.5);
+}
