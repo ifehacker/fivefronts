@@ -5,6 +5,10 @@
     height: auto;
 }
 
-.jumbotron { color: azure;
+.jumbotron { color: rgb(132, 219, 219);
     background: rgba(204, 204, 204, 0.5);
+}
+
+.info {
+    background: rgba(8, 8, 8, 0.5);
 }
