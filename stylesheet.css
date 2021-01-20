@@ -35,8 +35,10 @@ button {
       }
       .navbar-toggler {
         border: none;
-        width: 1em;
-        
+        width: 2em;
+       
       }
-
+      .navbar-toggler-icon {
+          justify-self: center;
+      }
       
