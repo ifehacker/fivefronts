@@ -39,5 +39,7 @@ button {
         width: 2em;
         
       }
-      
+      .navbar-toggler-icon {
+          padding-right: 5px;
+      }
       
