@@ -37,10 +37,9 @@ button {
       .navbar-toggler {
         border: none;
         width: 2em;
-        
+        padding-right: 10px;
       }
       .navbar-toggler-icon {
-          padding-left: 5px;
-          margin-block: 5px, 5px, 5px, 5px;
+           margin: 5px;
       }
       
