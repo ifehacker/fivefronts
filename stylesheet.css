@@ -36,5 +36,5 @@ button {
       .navbar-toggler {
         border: none;
         width: 1em;
-        
+        float: right;
       }
