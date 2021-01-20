@@ -36,9 +36,7 @@ button {
       .navbar-toggler {
         border: none;
         width: 2em;
-       
+        justify-content: center;
       }
-      .navbar-toggler-icon {
-          justify-self: center;
-      }
+      
       
