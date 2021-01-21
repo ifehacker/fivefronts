@@ -42,6 +42,14 @@
     background: rgba(0, 0, 0, 1);
      
 }
+
+.serv {
+  
+  border: 2px;
+  margin: 2px;
+  padding: 2px;
+}
+
 button {
     width: 100%;
     padding: 10px;
