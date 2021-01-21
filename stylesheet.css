@@ -9,9 +9,8 @@
   position: relative;
   overflow: hidden;
   color: #010508f5;
-  background-color: rgb(8, 1, 1);
-  background: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url('Lag9.jpg');
-}
+  }
+  
 .jumbotron__background {
   position: absolute;
   z-index: 1;
@@ -19,7 +18,7 @@
   width:100%;
   height:100%;
   object-fit: cover;
-  opacity:0.5;
+  opacity: 1;
 }
 
 .jumbotron .container {
