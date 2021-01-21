@@ -39,7 +39,8 @@
 
 
 .info {
-    background: rgba(8, 8, 8, 0.5);
+    background: rgba(0, 0, 0, 1);
+     
 }
 button {
     width: 100%;
