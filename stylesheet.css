@@ -10,7 +10,7 @@
   overflow: hidden;
   color: #010508f5;
   }
-  
+
 .jumbotron__background {
   position: absolute;
   z-index: 1;
@@ -19,6 +19,9 @@
   height:100%;
   object-fit: cover;
   opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center center;
 }
 
 .jumbotron .container {
