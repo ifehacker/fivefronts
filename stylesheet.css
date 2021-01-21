@@ -5,9 +5,29 @@
     height: auto;
 }
 
-.jumbotron { color: rgb(132, 219, 219);
-    background: rgba(204, 204, 204, 0.5);
+.jumbotron {
+  position: relative;
+  overflow: hidden;
+  color: #010508f5;
+  background-color: rgb(8, 1, 1);
+  background: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url('Lag9.jpg');
 }
+.jumbotron__background {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  opacity:0.5;
+}
+
+.jumbotron .container {
+  z-index: 2;
+  position: relative;
+}
+
+
 
 .info {
     background: rgba(8, 8, 8, 0.5);
@@ -16,7 +36,7 @@ button {
     width: 100%;
     padding: 10px;
     border: none;
-    background: #1c87c9; 
+    background: #010508; 
     font-size: 16px;
     font-weight: 400;
     color: #fff;
