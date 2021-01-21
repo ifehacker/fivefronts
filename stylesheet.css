@@ -9,6 +9,8 @@
   position: relative;
   overflow: hidden;
   color: #010508f5;
+  background-size: cover;
+  background-repeat: no-repeat;
   }
 
 .jumbotron__background {
