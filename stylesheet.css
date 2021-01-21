@@ -9,10 +9,7 @@
   position: relative;
   overflow: hidden;
   color: #010508f5;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center center;
-  }
+}
 
 .jumbotron__background {
   position: absolute;
