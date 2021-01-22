@@ -64,9 +64,7 @@ button {
       display: flex;
       flex-direction: row;
     }
-    .flexi {
-      padding: 10px;
-    }
+    
 
     
     
@@ -87,7 +85,7 @@ button {
           flex-direction: column;
         }
       }
-      
+
       .navbar-toggler {
         border: none;
         width: 2em;
