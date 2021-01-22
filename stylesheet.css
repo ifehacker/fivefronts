@@ -56,6 +56,11 @@
   background-color: black;
 }
 
+#spacex {
+  margin: 10px;
+  padding: 10px;
+}
+
 button {
     width: 100%;
     padding: 10px;
