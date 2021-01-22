@@ -72,7 +72,7 @@ button {
       }
 
       .flexi {
-        flex-direction: row-reverse;
+        flex-direction: column-reverse;
       }
     }
 
